@@ -200,7 +200,7 @@ $(document).ready(function(){
     	smartSpeed:500,
 		loop: true,
 		responsiveClass: true,
-		items : 3,
+		items : 9,
 		nav : true,
 		navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
 		margin: 25,
